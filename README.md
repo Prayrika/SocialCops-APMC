@@ -18,3 +18,4 @@
 
 ### 3) CLEANED DATA FILE:
        -Dataset free of outlier - Cleaned_MandiData.csv
+The entire methodology is explained in the wiki page
