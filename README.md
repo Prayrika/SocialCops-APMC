@@ -5,7 +5,7 @@
 ####  - 1. cleaned_dataframes.py: 
         The interactive script performs three tasks : 
         - (i) scales each of the prices, namely, minimum price, maximum price and modal price by using MinMax scaler from scikit library (function: scale_data), 
-        - (ii) cleans data by filtering outliers from  the scaled data by usinf One Class SVM with gamma = 0.05 and nu=.05 (function: clean_data), 
+        - (ii) cleans data by filtering outliers from  the scaled data by using One Class SVM with gamma = 0.05 and nu=.05 (function: clean_data), 
         - (iii) returns back filtered datapoints in a csv file format. 
 ####  - 2. Detect_seasonality.py: 
       The interactive script performs three tasks : 
