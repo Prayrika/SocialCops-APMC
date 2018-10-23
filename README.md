@@ -11,7 +11,7 @@
       The interactive script performs three tasks : 
       - (i) forms the dataframe for the cluster of APMC and crop required to be analysed (function: form_data), 
       - (ii) helps to analyse the behaviour of prices over a monthly span sothat additive or multiplicative nature of the seasonality be deduced, 
-      - (iii) Once detected, it gives a seasonal decomposition plot representation of the data and compares the raw data with         deseasonalised trend in prices (functions: plot seasonal, detect_seasonality). 
+      - (iii) Once detected, it gives a seasonal decomposition plot representation of the data and compares the original modal prices with deseasonalised prices and prices after trend removal (functions: plot seasonal, detect_seasonality). 
 
 ### 2) GRAPH IMAGES : 
        -Image files corresponding to various observations used for analysis.
